@@ -1,5 +1,7 @@
-//
+//program to prompt the user to enter number of water units consumed
 /*
+NAME: Kutayi Janet Ayoti 
+REG NO: PA106/G/28769/25
 */
 
 #include <stdio.h>
@@ -25,4 +27,5 @@ int main() {
     printf("Total water bill: %.2f KES\n", bill);
 
     return 0;
+
 }
