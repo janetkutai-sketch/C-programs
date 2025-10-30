@@ -115,4 +115,5 @@ int main(){
 	printf("Total number of rooms occupied across all the three branches:%d\n",total_occupied);
    }	
 	return 0;
+
 }
